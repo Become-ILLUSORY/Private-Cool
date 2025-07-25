@@ -1,0 +1,48 @@
+name: Run Python Script and Commit Result
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:  # 支持手动触发
+
+jobs:
+  run-python:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies (if any)
+        run: |
+          pip install --upgrade pip
+          # pip install -r requirements.txt  # 如果有依赖文件，取消注释
+
+      - name: Execute Python script
+        run: |
+          python auto.py
+
+      - name: Check if result files are changed
+        id: changed
+        run: |
+          git config --local user.email "github-actions@example.com"
+          git config --local user.name "GitHub Actions"
+          git add result.txt
+          if git diff --cached --exit-code; then
+            echo "No changes to commit"
+            exit 1
+          else
+            echo "Changes detected"
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push changes
+        if: steps.changed.outputs.has_changes == 'true'
+        run: |
+          git commit -m "Update result.txt from GitHub Actions"
+          git push

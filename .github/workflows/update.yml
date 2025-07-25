@@ -1,7 +1,6 @@
 name: Run Python Script and Commit Result
 
 on:
-  push:
   workflow_dispatch:  # 支持手动触发
 
 jobs:

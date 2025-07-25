@@ -21,7 +21,7 @@ jobs:
       - name: Install dependencies (if any)
         run: |
           pip install --upgrade pip
-          # pip install -r requirements.txt  # 如果有依赖文件，取消注释
+          pip install -r requirements.txt  # 如果有依赖文件，取消注释
 
       - name: Execute Python script
         run: |

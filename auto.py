@@ -89,7 +89,7 @@ def main():
     pg_url = "https://www.252035.xyz/p/jsm.json"
     filename = "jsm.json"
     
-    emby_url = "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746286137557/wex.json"
+    emby_url = "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1753376903377/wex.json"
     emby_filename = "wex.json"
     
     new_spider_value = "https://www.252035.xyz/p/pg.jar"

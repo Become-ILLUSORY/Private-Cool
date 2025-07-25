@@ -15,14 +15,14 @@
             "key": "Wexconfig",
             "name": "🐮配置┃中心🐮",
             "type": 3,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746286098925/wex.txt",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746286098925/wex.txt;md5;ceed36dee9985e1362f15e33f42c5e0a",
             "api": "csp_WexconfigGuard"
         },
         {
             "key": "Wexemby",
             "name": "emby",
             "type": 3,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746286098925/wex.txt",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746286098925/wex.txt;md5;ceed36dee9985e1362f15e33f42c5e0a",
             "api": "csp_WexembyGuard",
             "searchable": 1,
             "changeable": 1
@@ -31,7 +31,7 @@
             "key": "WexbaidusoGuard",
             "name": "百度",
             "type": 3,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746286098925/wex.txt",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746286098925/wex.txt;md5;ceed36dee9985e1362f15e33f42c5e0a",
             "api": "csp_WexbaidusoGuard",
             "searchable": 1,
             "changeable": 0

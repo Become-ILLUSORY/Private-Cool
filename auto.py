@@ -3,7 +3,11 @@ import json
 
 def download_json_file(url, filename):
     """从指定URL下载JSON文件并保存到本地"""
-    response = requests.get(url)
+    headers = {
+        "User-Agent": "okhttp/5.0.0-alpha.14",
+        "Accept": "application/json, text/javascript, */*; q=0.01"  # 增加JSON相关的Accept头
+    }
+    response = requests.get(url,headers=headers)
     if response.status_code == 200:
         with open(filename, "w", encoding="utf-8") as file:
             file.write(response.text)
@@ -89,7 +93,7 @@ def main():
     pg_url = "https://www.252035.xyz/p/jsm.json"
     filename = "jsm.json"
     
-    emby_url = "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1753376903377/wex.json"
+    emby_url = "http://tvbox.xn--4kq62z5rby2qupq9ub.top/"
     emby_filename = "wex.json"
     
     new_spider_value = "https://www.252035.xyz/p/pg.jar"

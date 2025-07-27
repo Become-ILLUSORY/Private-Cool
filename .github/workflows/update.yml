@@ -1,4 +1,4 @@
-name: Run Python Script and Commit Result
+name: 自动更新
 
 on:
   workflow_dispatch:  # 支持手动触发

@@ -15,14 +15,14 @@
             "key": "Wexconfig",
             "name": "🐮配置┃中心🐮",
             "type": 3,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/d63a7478ff41326f/wex.png;md5;9cacdf8e8ae422bb255996727df60386",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/b59600cca879e146/wex.png;md5;ff89163e0926138e9e9a08e5b8d917d4",
             "api": "csp_WexconfigGuard"
         },
         {
             "key": "Wexemby",
             "name": "emby",
             "type": 3,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/d63a7478ff41326f/wex.png;md5;9cacdf8e8ae422bb255996727df60386",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/b59600cca879e146/wex.png;md5;ff89163e0926138e9e9a08e5b8d917d4",
             "api": "csp_WexembyGuard",
             "searchable": 1,
             "changeable": 1
@@ -31,15 +31,15 @@
             "key": "WexbaidusoGuard",
             "name": "百度",
             "type": 3,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/d63a7478ff41326f/wex.png;md5;9cacdf8e8ae422bb255996727df60386",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/b59600cca879e146/wex.png;md5;ff89163e0926138e9e9a08e5b8d917d4",
             "api": "csp_WexbaidusoGuard",
             "searchable": 1,
             "changeable": 0
         },
         {
             "key": "https://github.com/fish2018/PG",
-            "name": "202507271231",
-            "zip": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250727-1231.zip",
+            "name": "202507301514",
+            "zip": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250730-1514.zip",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
@@ -392,6 +392,17 @@
             "filterable": 1,
             "timeout": 60,
             "ext": "https://bp.banye.tech:7777/pg/lib/tokenm?token=qunyouyouqun$$$http://xuexizhinan.com/$$$noproxy$$$1$$$https://www.252035.xyz/p/lib/4kzn.txt$$$4KZN"
+        },
+        {
+            "key": "FourKFox",
+            "name": "4KFox|网盘|磁力",
+            "type": 3,
+            "api": "csp_FourKFox",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "https://bp.banye.tech:7777/pg/lib/tokenm?token=qunyouyouqun$$$http://4kfox.com/$$$noproxy$$$1$$$https://www.252035.xyz/p/lib/4kfox.txt$$$4KFOX"
         },
         {
             "key": "FourKFM",

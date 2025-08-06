@@ -12,7 +12,7 @@
             "ext": "https://bp.banye.tech:7777/pg/lib/tokenm?token=qunyouyouqun$$$https://www.252035.xyz/p/lib/douban.json"
         },
         {
-            "ext": "eyJ1aWQiOiIwZjliYjNiOTMwYTg0Njk5YWM4NmUyNjQ2NzFmYWZiNyIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+            "ext": "eyJ1aWQiOiJhZDQyMDk5ZWNiOWI0OWI3OWYzMDU1M2UxZGI2YzRmMiIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
             "filterable": 1,
             "quickSearch": 1,
             "name": "AList",
@@ -24,7 +24,7 @@
             "searchable": 1
         },
         {
-            "ext": "eyJ1aWQiOiIwZjliYjNiOTMwYTg0Njk5YWM4NmUyNjQ2NzFmYWZiNyIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+            "ext": "eyJ1aWQiOiJhZDQyMDk5ZWNiOWI0OWI3OWYzMDU1M2UxZGI2YzRmMiIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
             "filterable": 1,
             "quickSearch": 0,
             "name": "电报豆瓣",
@@ -36,7 +36,7 @@
             "searchable": 0
         },
         {
-            "ext": "eyJ1aWQiOiIwZjliYjNiOTMwYTg0Njk5YWM4NmUyNjQ2NzFmYWZiNyIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+            "ext": "eyJ1aWQiOiJhZDQyMDk5ZWNiOWI0OWI3OWYzMDU1M2UxZGI2YzRmMiIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
             "filterable": 1,
             "quickSearch": 1,
             "name": "电报搜索",
@@ -48,7 +48,7 @@
             "searchable": 1
         },
         {
-            "ext": "eyJ1aWQiOiIwZjliYjNiOTMwYTg0Njk5YWM4NmUyNjQ2NzFmYWZiNyIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+            "ext": "eyJ1aWQiOiJhZDQyMDk5ZWNiOWI0OWI3OWYzMDU1M2UxZGI2YzRmMiIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
             "filterable": 1,
             "quickSearch": 1,
             "name": "电报网页",
@@ -60,7 +60,7 @@
             "searchable": 1
         },
         {
-            "ext": "eyJ1aWQiOiIwZjliYjNiOTMwYTg0Njk5YWM4NmUyNjQ2NzFmYWZiNyIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+            "ext": "eyJ1aWQiOiJhZDQyMDk5ZWNiOWI0OWI3OWYzMDU1M2UxZGI2YzRmMiIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
             "filterable": 1,
             "quickSearch": 1,
             "name": "鱼佬盘搜",
@@ -199,18 +199,9 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/94d140960f93b512/wex.png;md5;2ec9736c412884a87906c6f263f9d4e2"
         },
         {
-            "key": "WexbaidusoGuard",
-            "name": "🎠给力┃百度🎠",
-            "type": 3,
-            "api": "csp_WexbaidusoGuard",
-            "searchable": 1,
-            "changeable": 0,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/94d140960f93b512/wex.png;md5;2ec9736c412884a87906c6f263f9d4e2"
-        },
-        {
             "key": "https://github.com/fish2018/PG",
-            "name": "202508021632",
-            "zip": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250802-1632.zip",
+            "name": "202508061903",
+            "zip": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250806-1903.zip",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
@@ -1301,6 +1292,18 @@
             "name": "最强国内直播(EPG-1天回看)",
             "type": 0,
             "url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tv.m3u",
+            "ua": "okhttp/3.15",
+            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date=DATE1SUB",
+            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
+            "catchup": {
+                "type": "append",
+                "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+            }
+        },
+        {
+            "name": "FeiYang牧场",
+            "type": 0,
+            "url": "http://127.0.0.1:10079/c/3600/proxy/https://raw.githubusercontent.com/Mursor/LIVE/refs/heads/main/iptv.m3u",
             "ua": "okhttp/3.15",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date=DATE1SUB",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",

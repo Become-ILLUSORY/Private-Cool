@@ -161,7 +161,7 @@ def main():
         "https://bp.banye.tech:7777/sub/qunyouyouqun/pg",
         "http://tvbox.xn--4kq62z5rby2qupq9ub.top/#jar:spider_value"  # 这里的spider_value是占位符
     ]
-    site_names = ["🐮通用类型┃配置中心🐮", "🀄️emby┃4K🀄️","🎠海音┃综合🎠", "AList",
+    site_names = ["🐮通用类型┃配置中心🐮", "🀄️emby┃4K🀄️", "AList",
                   "电报豆瓣","电报搜索","电报网页","鱼佬盘搜",
                   "账号更新","TG豆瓣","TG频道搜索","TG群组搜索"]
     
@@ -205,6 +205,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 

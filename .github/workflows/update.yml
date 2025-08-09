@@ -29,7 +29,7 @@ jobs:
         run: |
           git config --local user.email "github-actions@example.com"
           git config --local user.name "GitHub Actions"
-          git add jsm.json wex.json
+          git add jsm.json wex.json banye.json
           if git diff --cached --exit-code; then
             echo "No changes to commit"
             exit 1

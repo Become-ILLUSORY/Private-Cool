@@ -12,7 +12,7 @@
             "ext": "https://bp.banye.tech:7777/pg/lib/tokenm?token=qunyouyouqun$$$https://www.252035.xyz/p/lib/douban.json"
         },
         {
-            "ext": "eyJ1aWQiOiI2ZTBjYzJkZDM0NmY0NzhhODA4NTE2N2FmZjUyODcxYiIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+            "ext": "eyJ1aWQiOiJmZWJkZDdmZjdiMzI0YzUxYjRhOTk5NTU1OGYyZGVmZSIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
             "filterable": 1,
             "quickSearch": 1,
             "name": "AList",
@@ -24,7 +24,7 @@
             "searchable": 1
         },
         {
-            "ext": "eyJ1aWQiOiI2ZTBjYzJkZDM0NmY0NzhhODA4NTE2N2FmZjUyODcxYiIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+            "ext": "eyJ1aWQiOiJmZWJkZDdmZjdiMzI0YzUxYjRhOTk5NTU1OGYyZGVmZSIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
             "filterable": 1,
             "quickSearch": 0,
             "name": "电报豆瓣",
@@ -36,7 +36,7 @@
             "searchable": 0
         },
         {
-            "ext": "eyJ1aWQiOiI2ZTBjYzJkZDM0NmY0NzhhODA4NTE2N2FmZjUyODcxYiIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+            "ext": "eyJ1aWQiOiJmZWJkZDdmZjdiMzI0YzUxYjRhOTk5NTU1OGYyZGVmZSIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
             "filterable": 1,
             "quickSearch": 1,
             "name": "电报搜索",
@@ -48,7 +48,7 @@
             "searchable": 1
         },
         {
-            "ext": "eyJ1aWQiOiI2ZTBjYzJkZDM0NmY0NzhhODA4NTE2N2FmZjUyODcxYiIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+            "ext": "eyJ1aWQiOiJmZWJkZDdmZjdiMzI0YzUxYjRhOTk5NTU1OGYyZGVmZSIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
             "filterable": 1,
             "quickSearch": 1,
             "name": "电报网页",
@@ -60,7 +60,7 @@
             "searchable": 1
         },
         {
-            "ext": "eyJ1aWQiOiI2ZTBjYzJkZDM0NmY0NzhhODA4NTE2N2FmZjUyODcxYiIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+            "ext": "eyJ1aWQiOiJmZWJkZDdmZjdiMzI0YzUxYjRhOTk5NTU1OGYyZGVmZSIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
             "filterable": 1,
             "quickSearch": 1,
             "name": "鱼佬盘搜",
@@ -200,37 +200,14 @@
         },
         {
             "key": "https://github.com/fish2018/PG",
-            "name": "202508111601",
-            "zip": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250811-1601.zip",
+            "name": "202508121626",
+            "zip": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250812-1626.zip",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
             "changeable": 1,
             "indexs": 1,
             "ext": "https://www.252035.xyz/p/lib/douban.json"
-        },
-        {
-            "key": "Youtube",
-            "name": "Youtube",
-            "type": 3,
-            "api": "csp_Youtube",
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "timeout": 120,
-            "ext": {
-                "token": "https://bp.banye.tech:7777/pg/lib/tokenm?token=qunyouyouqun",
-                "json": "https://www.252035.xyz/p/lib/youtube.json",
-                "type": "直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
-                "keywords": "排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
-                "codecs": "",
-                "proxy": "proxy",
-                "danmu": true
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 1.77
-            }
         },
         {
             "key": "网盘配置",
@@ -503,7 +480,7 @@
                 "keywords": "名称,片名,推荐",
                 "tgsearch_url": "https://tg.252035.xyz",
                 "tgsearch_media_url": "https://tg.252035.xyz",
-                "channellist": "tgsearchers2,alyp_1,guaguale115,hao115,shareAliyun,ucpanpan,ucquark,ydypzyfx,jdjdn1111",
+                "channellist": "tgsearchers3",
                 "proxy": "noproxy",
                 "danmu": true
             },
@@ -524,7 +501,7 @@
                 "keywords": "名称,片名,推荐",
                 "tgsearch_url": "https://tg.252035.xyz",
                 "tgsearch_media_url": "https://tg.252035.xyz",
-                "channellist": "tgsearchers2",
+                "channellist": "tgsearchers3",
                 "proxy": "noproxy",
                 "danmu": true
             },
@@ -611,17 +588,6 @@
             "ext": "https://bp.banye.tech:7777/pg/lib/tokenm?token=qunyouyouqun$$$https://tv.yydsys.top/$$$proxy$$$1$$$https://www.252035.xyz/p/lib/wogg.json$$$WNLG"
         },
         {
-            "key": "蜡笔网盘",
-            "name": "蜡笔|网盘",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "https://bp.banye.tech:7777/pg/lib/tokenm?token=qunyouyouqun$$$https://www.goimg.asia/$$$noproxy$$$1$$$https://www.252035.xyz/p/lib/wogg.json$$$LABI"
-        },
-        {
             "key": "Mogg",
             "name": "木偶哥哥|网盘",
             "type": 3,
@@ -631,50 +597,6 @@
             "filterable": 1,
             "timeout": 60,
             "ext": "https://bp.banye.tech:7777/pg/lib/tokenm?token=qunyouyouqun$$$http://123.666291.xyz/$$$noproxy$$$1$$$https://www.252035.xyz/p/lib/wogg.json$$$MOGG"
-        },
-        {
-            "key": "DAWO",
-            "name": "大玩偶|网盘",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "https://bp.banye.tech:7777/pg/lib/tokenm?token=qunyouyouqun$$$http://149.88.87.18:6688/$$$noproxy$$$1$$$https://www.252035.xyz/p/lib/wogg.json$$$DAWO"
-        },
-        {
-            "key": "BAIJIA",
-            "name": "百家|网盘",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "https://bp.banye.tech:7777/pg/lib/tokenm?token=qunyouyouqun$$$http://cj.jiexi.news/$$$noproxy$$$1$$$https://www.252035.xyz/p/lib/wogg.json$$$BAIJIA"
-        },
-        {
-            "key": "QINGYING",
-            "name": "清影|网盘",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "https://bp.banye.tech:7777/pg/lib/tokenm?token=qunyouyouqun$$$https://revohd.com/$$$noproxy$$$1$$$https://www.252035.xyz/p/lib/wogg.json$$$QINGYING"
-        },
-        {
-            "key": "Xiaomi",
-            "name": "小米|网盘",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "https://bp.banye.tech:7777/pg/lib/tokenm?token=qunyouyouqun$$$https://www.mucpan.cc/$$$noproxy$$$1$$$https://www.252035.xyz/p/lib/wogg.json$$$XIAOMI"
         },
         {
             "key": "至臻|网盘",
@@ -718,6 +640,29 @@
             }
         },
         {
+            "key": "Youtube",
+            "name": "Youtube",
+            "type": 3,
+            "api": "csp_Youtube",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "timeout": 120,
+            "ext": {
+                "token": "https://bp.banye.tech:7777/pg/lib/tokenm?token=qunyouyouqun",
+                "json": "https://www.252035.xyz/p/lib/youtube.json",
+                "type": "直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
+                "keywords": "排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
+                "codecs": "",
+                "proxy": "proxy",
+                "danmu": true
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.77
+            }
+        },
+        {
             "key": "Guazi",
             "name": "瓜子|App",
             "type": 3,
@@ -740,17 +685,6 @@
             "ext": "https://bp.banye.tech:7777/pg/lib/tokenm?token=qunyouyouqun$$$https://www.hdmoli.pro/$$$proxy$$$1$$$https://www.252035.xyz/p/lib/moli.json"
         },
         {
-            "key": "Ppxzy",
-            "name": "皮皮虾|网盘",
-            "type": 3,
-            "api": "csp_Ppxzy",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "https://bp.banye.tech:7777/pg/lib/tokenm?token=qunyouyouqun$$$https://ppxzy.ink$$$proxy$$$1"
-        },
-        {
             "key": "ddys",
             "name": "低端影视|网盘",
             "type": 3,
@@ -771,17 +705,6 @@
             "filterable": 1,
             "timeout": 120,
             "ext": "https://bp.banye.tech:7777/pg/lib/tokenm?token=qunyouyouqun$$$https://www.meijumi.net/$$$proxy$$$1"
-        },
-        {
-            "key": "Libvio",
-            "name": "LIBVIO|网盘",
-            "type": 3,
-            "api": "csp_Libvio",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "https://bp.banye.tech:7777/pg/lib/tokenm?token=qunyouyouqun$$$https://www.libvio.fun/$$$null"
         },
         {
             "key": "Hdhive",
@@ -1007,14 +930,6 @@
             "ext": "https://bp.banye.tech:7777/pg/lib/tokenm?token=qunyouyouqun$$$https://www.66ss.org$$$null$$$1"
         },
         {
-            "key": "黑木耳",
-            "name": "黑木耳",
-            "type": 1,
-            "api": "http://127.0.0.1:10079/p/0/null/https://json.heimuer.xyz/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-        {
             "key": "索尼资源",
             "name": "索尼┃资源",
             "type": 1,
@@ -1084,16 +999,6 @@
             "api": "csp_SeedHub",
             "changeable": 1,
             "timeout": 60
-        },
-        {
-            "key": "快看",
-            "name": "快看",
-            "type": 3,
-            "api": "csp_Kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "filterable": 1
         },
         {
             "key": "ikun",
@@ -1175,14 +1080,6 @@
             ]
         },
         {
-            "key": "巴士",
-            "name": "巴士",
-            "type": 3,
-            "api": "csp_Dm84",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
             "key": "異界",
             "name": "異界",
             "type": 3,
@@ -1201,32 +1098,12 @@
             "ext": "./js/alist.json"
         },
         {
-            "key": "MV_vod",
-            "name": "电视┃MTV",
-            "type": 1,
-            "api": "https://mv.wogg.link/mv/vod",
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
             "key": "酷狗",
             "name": "酷狗",
             "type": 3,
             "api": "csp_Kugou",
             "searchable": 1,
             "changeable": 0
-        },
-        {
-            "key": "hipy_js_KTV歌厅[听]1",
-            "name": "🎤KTV歌厅在线",
-            "type": 3,
-            "api": "http://kxrj.site:55/lib/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "ext": "http://kxrj.site:55/lib/js/KTV歌厅[听].js"
         },
         {
             "key": "Yinyuetai",

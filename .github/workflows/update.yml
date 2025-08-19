@@ -21,6 +21,8 @@ jobs:
           pip install -r requirements.txt  # 如果有依赖文件，取消注释
 
       - name: Execute Python script
+        env:
+          SHOWDOC_PUSH_URL: ${{ secrets.SHOWDOC_PUSH_URL }}
         run: |
           python auto.py
 

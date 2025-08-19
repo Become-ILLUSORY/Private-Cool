@@ -12,7 +12,7 @@
             "ext": "https://bp.banye.tech:7777/pg/lib/tokenm?token=qunyouyouqun$$$https://www.252035.xyz/p/lib/douban.json"
         },
         {
-            "ext": "eyJ1aWQiOiIzN2RhZWFhMjRhYzY0YzVmYjdiZWUwMmQzMjFiNWRjMiIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+            "ext": "eyJ1aWQiOiI1MjdmNTQyMWIyZmI0NGI2ODYwNzMxYjFjOWI4OThhNCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
             "filterable": 1,
             "quickSearch": 1,
             "name": "AList",
@@ -24,7 +24,7 @@
             "searchable": 1
         },
         {
-            "ext": "eyJ1aWQiOiIzN2RhZWFhMjRhYzY0YzVmYjdiZWUwMmQzMjFiNWRjMiIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+            "ext": "eyJ1aWQiOiI1MjdmNTQyMWIyZmI0NGI2ODYwNzMxYjFjOWI4OThhNCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
             "filterable": 1,
             "quickSearch": 0,
             "name": "电报豆瓣",
@@ -36,7 +36,7 @@
             "searchable": 0
         },
         {
-            "ext": "eyJ1aWQiOiIzN2RhZWFhMjRhYzY0YzVmYjdiZWUwMmQzMjFiNWRjMiIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+            "ext": "eyJ1aWQiOiI1MjdmNTQyMWIyZmI0NGI2ODYwNzMxYjFjOWI4OThhNCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
             "filterable": 1,
             "quickSearch": 1,
             "name": "电报搜索",
@@ -48,7 +48,7 @@
             "searchable": 1
         },
         {
-            "ext": "eyJ1aWQiOiIzN2RhZWFhMjRhYzY0YzVmYjdiZWUwMmQzMjFiNWRjMiIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+            "ext": "eyJ1aWQiOiI1MjdmNTQyMWIyZmI0NGI2ODYwNzMxYjFjOWI4OThhNCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
             "filterable": 1,
             "quickSearch": 1,
             "name": "电报网页",
@@ -60,7 +60,7 @@
             "searchable": 1
         },
         {
-            "ext": "eyJ1aWQiOiIzN2RhZWFhMjRhYzY0YzVmYjdiZWUwMmQzMjFiNWRjMiIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+            "ext": "eyJ1aWQiOiI1MjdmNTQyMWIyZmI0NGI2ODYwNzMxYjFjOWI4OThhNCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
             "filterable": 1,
             "quickSearch": 1,
             "name": "鱼佬盘搜",
@@ -200,8 +200,8 @@
         },
         {
             "key": "https://github.com/fish2018/PG",
-            "name": "202508131038",
-            "zip": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250813-1038.zip",
+            "name": "202508191612",
+            "zip": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250819-1612.zip",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
@@ -1192,7 +1192,7 @@
             "name": "FeiYang牧场",
             "type": 0,
             "url": "http://sub.ottiptv.cc/iptv.m3u",
-            "ua": "okHttp/Mod-1.0.0",
+            "ua": "okHttp/Mod-1.0.1",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date=DATE1SUB",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
             "catchup": {

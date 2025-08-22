@@ -12,7 +12,7 @@
             "ext": "https://bp.banye.tech:7777/pg/lib/tokenm?token=qunyouyouqun$$$https://www.252035.xyz/p/lib/douban.json"
         },
         {
-            "ext": "eyJ1aWQiOiJiYmVlMTVhNzFhMjA0OGNjOTQ5N2M0MzIyNWQ3MjkzMiIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+            "ext": "eyJ1aWQiOiJmZjkyNmU1YTQ4NzM0YzJjYWI3YjYwOGE1NzNiNWQ1ZCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
             "filterable": 1,
             "quickSearch": 1,
             "name": "AList",
@@ -24,7 +24,19 @@
             "searchable": 1
         },
         {
-            "ext": "eyJ1aWQiOiJiYmVlMTVhNzFhMjA0OGNjOTQ5N2M0MzIyNWQ3MjkzMiIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+            "ext": "eyJ1aWQiOiJmZjkyNmU1YTQ4NzM0YzJjYWI3YjYwOGE1NzNiNWQ1ZCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+            "filterable": 1,
+            "quickSearch": 1,
+            "name": "Jellyfin",
+            "changeable": 0,
+            "jar": "https://bp.banye.tech:7777/spring.jar",
+            "api": "csp_Jellyfin",
+            "type": 3,
+            "key": "csp_Jellyfin",
+            "searchable": 1
+        },
+        {
+            "ext": "eyJ1aWQiOiJmZjkyNmU1YTQ4NzM0YzJjYWI3YjYwOGE1NzNiNWQ1ZCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
             "filterable": 1,
             "quickSearch": 0,
             "name": "电报豆瓣",
@@ -36,7 +48,7 @@
             "searchable": 0
         },
         {
-            "ext": "eyJ1aWQiOiJiYmVlMTVhNzFhMjA0OGNjOTQ5N2M0MzIyNWQ3MjkzMiIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+            "ext": "eyJ1aWQiOiJmZjkyNmU1YTQ4NzM0YzJjYWI3YjYwOGE1NzNiNWQ1ZCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
             "filterable": 1,
             "quickSearch": 1,
             "name": "电报搜索",
@@ -48,7 +60,7 @@
             "searchable": 1
         },
         {
-            "ext": "eyJ1aWQiOiJiYmVlMTVhNzFhMjA0OGNjOTQ5N2M0MzIyNWQ3MjkzMiIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+            "ext": "eyJ1aWQiOiJmZjkyNmU1YTQ4NzM0YzJjYWI3YjYwOGE1NzNiNWQ1ZCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
             "filterable": 1,
             "quickSearch": 1,
             "name": "电报网页",
@@ -60,7 +72,7 @@
             "searchable": 1
         },
         {
-            "ext": "eyJ1aWQiOiJiYmVlMTVhNzFhMjA0OGNjOTQ5N2M0MzIyNWQ3MjkzMiIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+            "ext": "eyJ1aWQiOiJmZjkyNmU1YTQ4NzM0YzJjYWI3YjYwOGE1NzNiNWQ1ZCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
             "filterable": 1,
             "quickSearch": 1,
             "name": "鱼佬盘搜",
@@ -133,7 +145,7 @@
                 "type": "rect",
                 "ratio": 0.7
             },
-            "jar": "https://bp.banye.tech:7777/pg/pg.jar;md5;f70e03bcb3f2e725fddab2e562424b14"
+            "jar": "https://bp.banye.tech:7777/pg/pg.jar;md5;57708c739347e03d55236c65e53eb170"
         },
         {
             "key": "TGYunPanLocal",
@@ -155,7 +167,7 @@
                 "type": "rect",
                 "ratio": 1.77
             },
-            "jar": "https://bp.banye.tech:7777/pg/pg.jar;md5;f70e03bcb3f2e725fddab2e562424b14"
+            "jar": "https://bp.banye.tech:7777/pg/pg.jar;md5;57708c739347e03d55236c65e53eb170"
         },
         {
             "key": "TGYunPan",
@@ -177,7 +189,7 @@
                 "type": "rect",
                 "ratio": 1.77
             },
-            "jar": "https://bp.banye.tech:7777/pg/pg.jar;md5;f70e03bcb3f2e725fddab2e562424b14"
+            "jar": "https://bp.banye.tech:7777/pg/pg.jar;md5;57708c739347e03d55236c65e53eb170"
         },
         {
             "key": "Wexconfig",
@@ -187,7 +199,7 @@
             "searchable": 0,
             "changeable": 0,
             "indexs": 0,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/dbac0975ac37cb43/wex.png;md5;2fae453e2661200bdb1f6305972fc663"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/9fadd28b5fb884e3/wex.png;md5;da870f2384c7d328231d8c47934e98e0"
         },
         {
             "key": "Wexemby",
@@ -196,12 +208,12 @@
             "api": "csp_WexembyGuard",
             "searchable": 1,
             "changeable": 1,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/dbac0975ac37cb43/wex.png;md5;2fae453e2661200bdb1f6305972fc663"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/9fadd28b5fb884e3/wex.png;md5;da870f2384c7d328231d8c47934e98e0"
         },
         {
             "key": "https://github.com/fish2018/PG",
-            "name": "202508191612",
-            "zip": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250819-1612.zip",
+            "name": "202508220736",
+            "zip": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250822-0736.zip",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
@@ -1192,7 +1204,7 @@
             "name": "FeiYang牧场",
             "type": 0,
             "url": "http://sub.ottiptv.cc/iptv.m3u",
-            "ua": "okHttp/Mod-1.0.1",
+            "ua": "okHttp/Mod-1.1.0",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date=DATE1SUB",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
             "catchup": {

@@ -1,6 +1,6 @@
 [
     {
-        "ext": "eyJ1aWQiOiJmZjkyNmU1YTQ4NzM0YzJjYWI3YjYwOGE1NzNiNWQ1ZCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+        "ext": "eyJ1aWQiOiI2MTVmOWE2ZDRlNTU0YTczOWJmYTZjMzI2YjljZDhhYyIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
         "filterable": 1,
         "quickSearch": 1,
         "name": "AList",
@@ -12,19 +12,7 @@
         "searchable": 1
     },
     {
-        "ext": "eyJ1aWQiOiJmZjkyNmU1YTQ4NzM0YzJjYWI3YjYwOGE1NzNiNWQ1ZCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
-        "filterable": 1,
-        "quickSearch": 1,
-        "name": "Jellyfin",
-        "changeable": 0,
-        "jar": "https://bp.banye.tech:7777/spring.jar",
-        "api": "csp_Jellyfin",
-        "type": 3,
-        "key": "csp_Jellyfin",
-        "searchable": 1
-    },
-    {
-        "ext": "eyJ1aWQiOiJmZjkyNmU1YTQ4NzM0YzJjYWI3YjYwOGE1NzNiNWQ1ZCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+        "ext": "eyJ1aWQiOiI2MTVmOWE2ZDRlNTU0YTczOWJmYTZjMzI2YjljZDhhYyIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
         "filterable": 1,
         "quickSearch": 0,
         "name": "电报豆瓣",
@@ -36,7 +24,7 @@
         "searchable": 0
     },
     {
-        "ext": "eyJ1aWQiOiJmZjkyNmU1YTQ4NzM0YzJjYWI3YjYwOGE1NzNiNWQ1ZCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+        "ext": "eyJ1aWQiOiI2MTVmOWE2ZDRlNTU0YTczOWJmYTZjMzI2YjljZDhhYyIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
         "filterable": 1,
         "quickSearch": 1,
         "name": "电报搜索",
@@ -48,7 +36,7 @@
         "searchable": 1
     },
     {
-        "ext": "eyJ1aWQiOiJmZjkyNmU1YTQ4NzM0YzJjYWI3YjYwOGE1NzNiNWQ1ZCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+        "ext": "eyJ1aWQiOiI2MTVmOWE2ZDRlNTU0YTczOWJmYTZjMzI2YjljZDhhYyIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
         "filterable": 1,
         "quickSearch": 1,
         "name": "电报网页",
@@ -60,7 +48,7 @@
         "searchable": 1
     },
     {
-        "ext": "eyJ1aWQiOiJmZjkyNmU1YTQ4NzM0YzJjYWI3YjYwOGE1NzNiNWQ1ZCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+        "ext": "eyJ1aWQiOiI2MTVmOWE2ZDRlNTU0YTczOWJmYTZjMzI2YjljZDhhYyIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
         "filterable": 1,
         "quickSearch": 1,
         "name": "鱼佬盘搜",
@@ -70,6 +58,28 @@
         "type": 3,
         "key": "csp_FishPanSou",
         "searchable": 1
+    },
+    {
+        "key": "TGYunPanLocal111",
+        "name": "TG123网盘",
+        "type": 3,
+        "api": "csp_TGYunPanLocal",
+        "timeout": 120,
+        "ext": {
+            "token": "./lib/tokenm.json",
+            "json": "./lib/tgsearch.json",
+            "keywords": "名称,片名,推荐",
+            "tgsearch_url": "https://tg.banye.tech:7777",
+            "tgsearch_media_url": "https://tg.banye.tech:7777",
+            "channellist": "pan123pan,zyfb123,zyzhpd123,xx123pan,yingshifenxiang123",
+            "proxy": "proxy",
+            "danmu": true
+        },
+        "style": {
+            "type": "rect",
+            "ratio": 1.77
+        },
+        "jar": "https://bp.banye.tech:7777/pg/pg.jar;md5;57708c739347e03d55236c65e53eb170"
     },
     {
         "key": "同步",

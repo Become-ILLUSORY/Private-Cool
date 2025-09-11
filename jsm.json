@@ -12,7 +12,7 @@
             "ext": "https://bp.banye.tech:7777/pg/lib/tokenm?token=qunyouyouqun$$$https://www.252035.xyz/p/lib/douban.json"
         },
         {
-            "ext": "eyJ1aWQiOiJhYWFjZGE1ODBiY2U0OTdjODFhZjEzNTQ5ODhjODRkNyIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+            "ext": "eyJ1aWQiOiI5Y2NkOWNjMjA3Njk0NTk0ODVmZmU1Y2IyMTBkOWM5OCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
             "filterable": 1,
             "quickSearch": 1,
             "name": "AList",
@@ -24,7 +24,7 @@
             "searchable": 1
         },
         {
-            "ext": "eyJ1aWQiOiJhYWFjZGE1ODBiY2U0OTdjODFhZjEzNTQ5ODhjODRkNyIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+            "ext": "eyJ1aWQiOiI5Y2NkOWNjMjA3Njk0NTk0ODVmZmU1Y2IyMTBkOWM5OCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
             "filterable": 1,
             "quickSearch": 0,
             "name": "电报豆瓣",
@@ -36,7 +36,7 @@
             "searchable": 0
         },
         {
-            "ext": "eyJ1aWQiOiJhYWFjZGE1ODBiY2U0OTdjODFhZjEzNTQ5ODhjODRkNyIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+            "ext": "eyJ1aWQiOiI5Y2NkOWNjMjA3Njk0NTk0ODVmZmU1Y2IyMTBkOWM5OCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
             "filterable": 1,
             "quickSearch": 1,
             "name": "电报搜索",
@@ -48,7 +48,7 @@
             "searchable": 1
         },
         {
-            "ext": "eyJ1aWQiOiJhYWFjZGE1ODBiY2U0OTdjODFhZjEzNTQ5ODhjODRkNyIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+            "ext": "eyJ1aWQiOiI5Y2NkOWNjMjA3Njk0NTk0ODVmZmU1Y2IyMTBkOWM5OCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
             "filterable": 1,
             "quickSearch": 1,
             "name": "电报网页",
@@ -60,7 +60,7 @@
             "searchable": 1
         },
         {
-            "ext": "eyJ1aWQiOiJhYWFjZGE1ODBiY2U0OTdjODFhZjEzNTQ5ODhjODRkNyIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+            "ext": "eyJ1aWQiOiI5Y2NkOWNjMjA3Njk0NTk0ODVmZmU1Y2IyMTBkOWM5OCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
             "filterable": 1,
             "quickSearch": 1,
             "name": "鱼佬盘搜",
@@ -91,7 +91,7 @@
                 "type": "rect",
                 "ratio": 1.77
             },
-            "jar": "https://bp.banye.tech:7777/pg/pg.jar;md5;6e5c22b7ee09420a1e0fdf5b41813f48"
+            "jar": "https://bp.banye.tech:7777/pg/pg.jar;md5;cc8306a7ea9413d2d11120de4e32590f"
         },
         {
             "key": "同步",
@@ -146,8 +146,8 @@
                 "keywords": "名称,片名,推荐",
                 "tgsearch_url": "https://tg.banye.tech:7777",
                 "tgsearch_media_url": "https://tg.banye.tech:7777",
-                "channellist": "tgsearchers,leoziyuan,ucpanpan,pan123pan,zyfb123,zyzhpd123,xx123pan,tianyi_pd2,tianyirigeng,tyypzhpd,cloudtianyi,kuakeclound,ydypzyfx,clouddriveresources,NewQuark,New_Sharing,alypzyhzq|1000,Mbox115|1000,shares_115|1000,wanwansubchat|1000",
-                "proxy": "noproxy",
+                "channellist": "tgsearchers3,leoziyuan,peccxinpd,yydf_hzl,vip115hot,clouddriveresources,q66share,yggpan,xiangxiunbb,oscardianying,dianying4k,wfysfx02,quarkfree,ucwpzy,ucquark,mcph860,mcph608,xunleibl,taoxgzy,yunpanx,kkxlzy,mcph086,dianyingshare,quark_movies,zyfx2022,alyp_1,quanziyuanshe,hdhhd21,guoman4k,duan_ju,q_dianying,q_dianshiju,sharepanfilms,mcph01,jdjdn1111,panjclub,baicaozy,yunpan189,tianyirigeng,cloudtianyi,tyysypzypd,txtyzy,kuakeclound,tyypzhpd,zyfb123,xx123pan,zyzhpd123,yingshifenxiang123,yp123pan,wp123zy115:oneonefivewpfx,lsp115,qukanmovie,channel_shares_115,share4115,ysxb48,aliyun:zaihuayun,sharealiyun,aliyun_4k_movies,aliyunys,qixingzhenren,yunpanuc,ucshare,ucwangpan",
+                "proxy": "proxy",
                 "douban": "https://bp.banye.tech:7777/pg/lib/douban.json",
                 "danmu": true
             },
@@ -155,7 +155,7 @@
                 "type": "rect",
                 "ratio": 0.7
             },
-            "jar": "https://bp.banye.tech:7777/pg/pg.jar;md5;6e5c22b7ee09420a1e0fdf5b41813f48"
+            "jar": "https://bp.banye.tech:7777/pg/pg.jar;md5;cc8306a7ea9413d2d11120de4e32590f"
         },
         {
             "key": "TGYunPanLocal",
@@ -169,7 +169,7 @@
                 "keywords": "名称,片名,推荐",
                 "tgsearch_url": "https://tg.banye.tech:7777",
                 "tgsearch_media_url": "https://tg.banye.tech:7777",
-                "channellist": "tgsearchers,leoziyuan,ucpanpan,pan123pan,zyfb123,zyzhpd123,xx123pan,tianyi_pd2,tianyirigeng,tyypzhpd,cloudtianyi,kuakeclound,ydypzyfx,clouddriveresources,NewQuark,New_Sharing,oneonefivewpfx,hao115,guaguale115,Channel_Shares_115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,vip115hot,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe",
+                "channellist": "tgsearchers3,leoziyuan,peccxinpd,yydf_hzl,vip115hot,clouddriveresources,q66share,yggpan,xiangxiunbb,oscardianying,dianying4k,wfysfx02,quarkfree,ucwpzy,ucquark,mcph860,mcph608,xunleibl,taoxgzy,yunpanx,kkxlzy,mcph086,dianyingshare,quark_movies,zyfx2022,alyp_1,quanziyuanshe,hdhhd21,guoman4k,duan_ju,q_dianying,q_dianshiju,sharepanfilms,mcph01,jdjdn1111,panjclub,baicaozy,yunpan189,tianyirigeng,cloudtianyi,tyysypzypd,txtyzy,kuakeclound,tyypzhpd,zyfb123,xx123pan,zyzhpd123,yingshifenxiang123,yp123pan,wp123zy115:oneonefivewpfx,lsp115,qukanmovie,channel_shares_115,share4115,ysxb48,aliyun:zaihuayun,sharealiyun,aliyun_4k_movies,aliyunys,qixingzhenren,yunpanuc,ucshare,ucwangpan",
                 "proxy": "proxy",
                 "danmu": true
             },
@@ -177,7 +177,7 @@
                 "type": "rect",
                 "ratio": 1.77
             },
-            "jar": "https://bp.banye.tech:7777/pg/pg.jar;md5;6e5c22b7ee09420a1e0fdf5b41813f48"
+            "jar": "https://bp.banye.tech:7777/pg/pg.jar;md5;cc8306a7ea9413d2d11120de4e32590f"
         },
         {
             "key": "TGYunPan",
@@ -191,7 +191,7 @@
                 "keywords": "名称,片名,推荐",
                 "tgsearch_url": "https://tg.banye.tech:7777",
                 "tgsearch_media_url": "https://tg.banye.tech:7777",
-                "channellist": "alypzyhzq|1000,Mbox115|1000,shares_115|1000,NewQuark|1000,New_Sharing|1000,wanwansubchat|1000",
+                "channellist": "tgsearchers3,KFCYeah,tianyifc,BaiduCloudDisk,txtyzy,peccxinpd,gotopan,PanjClub,kkxlzy,baicaoZY,yggpan,zaihuayun,Q66Share,Oscar_4Kmovies,shareAliyun,alyp_1,Quark_Movies,XiangxiuNBB,ydypzyfx,ucquark,xx123pan,zyfb123,tyypzhpd,tianyirigeng,cloudtianyi,hdhhd21,Lsp115,qixingzhenren,tyysypzypd,vip115hot,wp123zy,yunpan189,yydf_hzl,leoziyuan",
                 "proxy": "noproxy",
                 "danmu": true
             },
@@ -199,7 +199,7 @@
                 "type": "rect",
                 "ratio": 1.77
             },
-            "jar": "https://bp.banye.tech:7777/pg/pg.jar;md5;6e5c22b7ee09420a1e0fdf5b41813f48"
+            "jar": "https://bp.banye.tech:7777/pg/pg.jar;md5;cc8306a7ea9413d2d11120de4e32590f"
         },
         {
             "key": "Wexconfig",
@@ -209,7 +209,7 @@
             "searchable": 0,
             "changeable": 0,
             "indexs": 0,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/e076bb8296946b2c/wex.png;md5;2f5d7db247630a9d041d14ef060f9ec4"
+            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/1757409285_2013.png;md5;006fa87fd48aca48991bc0c93285a8db"
         },
         {
             "key": "Wexemby",
@@ -218,12 +218,12 @@
             "api": "csp_WexembyGuard",
             "searchable": 1,
             "changeable": 1,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/e076bb8296946b2c/wex.png;md5;2f5d7db247630a9d041d14ef060f9ec4"
+            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/1757409285_2013.png;md5;006fa87fd48aca48991bc0c93285a8db"
         },
         {
             "key": "https://github.com/fish2018/PG",
-            "name": "202508291129",
-            "zip": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250829-1129.zip",
+            "name": "202509090911",
+            "zip": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250909-0911.zip",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
@@ -1214,7 +1214,7 @@
             "name": "FeiYang牧场",
             "type": 0,
             "url": "http://sub.ottiptv.cc/iptv.m3u",
-            "ua": "okHttp/Mod-1.1.0",
+            "ua": "okHttp/Mod-1.3.0.0",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date=DATE1SUB",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
             "catchup": {

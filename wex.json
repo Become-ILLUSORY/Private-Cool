@@ -1,8 +1,8 @@
 {
- "spider": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/1757409285_2013.png;md5;006fa87fd48aca48991bc0c93285a8db",
+ "spider": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/5524FCD_773_wex_20250914224930935newMediaImage.png;md5;5b04a874672be8cd69a18ef54259e657",
 
   "wallpaper": "http://王二小放牛娃牛逼.999888987.xyz",
-  "logo": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/1757409310_3357.gif",
+  "logo": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/3CEAE9E_773_wexfnw_20250911190012684newMediaFile.gif",
   "sites": [
 
     {
@@ -17,7 +17,7 @@
     },
 	    {
       "key": "Doubana",
-      "name": "🐮【更新日期:20250902】🐮",
+      "name": "🐮【更新日期:20250914】🐮",
       "type": 3,
       "api": "csp_DoubanGuard",
       "searchable": 0,

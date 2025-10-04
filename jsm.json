@@ -12,7 +12,7 @@
             "ext": "https://bp.banye.tech:7777/pg/lib/tokenm?token=qunyouyouqun$$$https://www.252035.xyz/p/lib/douban.json"
         },
         {
-            "ext": "eyJ1aWQiOiI3NmVkMjc3YmRmZjA0Y2JhYWY0MjMwODhkNjBjNTQ1NiIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+            "ext": "eyJ1aWQiOiIxYmVjMDkyZjIzNWI0MGVhYTFhMmEwYzdlMmQyZTBlOCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
             "filterable": 1,
             "quickSearch": 1,
             "name": "AList",
@@ -24,7 +24,7 @@
             "searchable": 1
         },
         {
-            "ext": "eyJ1aWQiOiI3NmVkMjc3YmRmZjA0Y2JhYWY0MjMwODhkNjBjNTQ1NiIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+            "ext": "eyJ1aWQiOiIxYmVjMDkyZjIzNWI0MGVhYTFhMmEwYzdlMmQyZTBlOCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
             "filterable": 1,
             "quickSearch": 0,
             "name": "电报豆瓣",
@@ -36,7 +36,7 @@
             "searchable": 0
         },
         {
-            "ext": "eyJ1aWQiOiI3NmVkMjc3YmRmZjA0Y2JhYWY0MjMwODhkNjBjNTQ1NiIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+            "ext": "eyJ1aWQiOiIxYmVjMDkyZjIzNWI0MGVhYTFhMmEwYzdlMmQyZTBlOCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
             "filterable": 1,
             "quickSearch": 1,
             "name": "电报搜索",
@@ -48,7 +48,7 @@
             "searchable": 1
         },
         {
-            "ext": "eyJ1aWQiOiI3NmVkMjc3YmRmZjA0Y2JhYWY0MjMwODhkNjBjNTQ1NiIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+            "ext": "eyJ1aWQiOiIxYmVjMDkyZjIzNWI0MGVhYTFhMmEwYzdlMmQyZTBlOCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
             "filterable": 1,
             "quickSearch": 1,
             "name": "电报网页",
@@ -57,18 +57,6 @@
             "api": "csp_TgWeb",
             "type": 3,
             "key": "csp_TgWeb",
-            "searchable": 1
-        },
-        {
-            "ext": "eyJ1aWQiOiI3NmVkMjc3YmRmZjA0Y2JhYWY0MjMwODhkNjBjNTQ1NiIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
-            "filterable": 1,
-            "quickSearch": 1,
-            "name": "鱼佬盘搜",
-            "changeable": 0,
-            "jar": "https://bp.banye.tech:7777/spring.jar",
-            "api": "csp_FishPanSou",
-            "type": 3,
-            "key": "csp_FishPanSou",
             "searchable": 1
         },
         {
@@ -209,7 +197,7 @@
             "searchable": 0,
             "changeable": 0,
             "indexs": 0,
-            "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/51354B2_773_wex_20251001025150819newMediaImage.png;md5;63edca97deb202864b7e9078d26296f1"
+            "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/35842A0_773_wex_20251004220600232newMediaImage.png;md5;47ddcda7e66c4408c7d7470b4e2be335"
         },
         {
             "key": "Wexemby",
@@ -218,12 +206,12 @@
             "api": "csp_WexembyGuard",
             "searchable": 1,
             "changeable": 1,
-            "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/51354B2_773_wex_20251001025150819newMediaImage.png;md5;63edca97deb202864b7e9078d26296f1"
+            "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/35842A0_773_wex_20251004220600232newMediaImage.png;md5;47ddcda7e66c4408c7d7470b4e2be335"
         },
         {
             "key": "https://github.com/fish2018/PG",
-            "name": "202509301459",
-            "zip": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250930-1459.zip",
+            "name": "202510022306",
+            "zip": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20251002-2306.zip",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,

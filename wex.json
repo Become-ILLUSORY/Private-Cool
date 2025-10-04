@@ -1,5 +1,5 @@
 {
- "spider": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/51354B2_773_wex_20251001025150819newMediaImage.png;md5;63edca97deb202864b7e9078d26296f1",
+ "spider": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/35842A0_773_wex_20251004220600232newMediaImage.png;md5;47ddcda7e66c4408c7d7470b4e2be335",
 
   "wallpaper": "http://王二小放牛娃牛逼.999888987.xyz",
   "logo": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/3CEAE9E_773_wexfnw_20250911190012684newMediaFile.gif",
@@ -17,7 +17,7 @@
     },
 	{
       "key": "Doubana",
-      "name": "🐮【更新日期:20251001】🐮",
+      "name": "🐮【更新日期:20251004】🐮",
       "type": 3,
       "api": "csp_DoubanGuard",
       "searchable": 0,
@@ -189,14 +189,6 @@
     },
 
     {
-      "key": "Wexalllive",
-      "name": "💓‍聚合┃直播💓‍",
-      "type": 3,
-      "api": "csp_WexallliveGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
       "key": "Wexhanxiaoquan",
       "name": "💥韩剧┃秒播💥",
       "type": 3,
@@ -317,6 +309,30 @@
       "changeable": 1
     },
     {
+      "key": "WexNewHuYa",
+      "name": "🐯‍虎牙┃直播🐯‍",
+      "type": 3,
+      "api": "csp_WexNewHuYaGuard",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "WexNewDouYu",
+      "name": "🐳斗鱼┃直播🐳",
+      "type": 3,
+      "api": "csp_WexNewDouYuGuard",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "WexNewBiLiLive",
+      "name": "🅱️哔哩┃直播🅱️",
+      "type": 3,
+      "api": "csp_WexNewBiLiLiveGuard",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
       "key": "Wexduanjuquark",
       "name": "🍉短剧┃夸克🍉",
       "type": 3,
@@ -395,6 +411,7 @@
         "ratio": 2
       }
     },
+
     {
       "key": "Wextangdou",
       "name": "💃跳舞┃教学💃",

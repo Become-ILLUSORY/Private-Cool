@@ -341,10 +341,12 @@ def main():
             "server": "http://mygcns.mobaiemby.site:7069",
             "username": "镜花水月",
             "password": "2042198167...",
-            "ua": "Yamby"
+            "ua": "Yamby/1.0.2(Android)",
+            "client": "Yamby",
+            "deviceName": "Xiaomi-Poco-X3",
         },
         "changeable": 1,
-        "jar": "https://www.252035.xyz/z/custom_spider.jar;md5;43989964965deab2a4b6b48251043412"
+        "jar": "https://www.252035.xyz/z/custom_spider.jar"
     }
     SiteProcessor.insert_single_site(original_data, emby_feiniu_site, insert_pos=1)
 
@@ -364,4 +366,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-

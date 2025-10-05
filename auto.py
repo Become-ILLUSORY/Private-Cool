@@ -330,24 +330,20 @@ def main():
     # 插入站点（批量插入+单独插入自定义站点）
     SiteProcessor.insert_sites(original_data, new_sites)
     emby_feiniu_site = {
-        "key": "墨云阁",
-        "name": "Emby墨云阁",
-        "type": 3,
-        "api": "csp_Emby",
-        "searchable": 1,
-        "quickSearch": 1,
+        "ext": "eyJzZXJ2ZXIiOiAiaHR0cDovL215Z2Nucy5tb2JhaWVtYnkuc2l0ZTo3MDY5IiwidXNlcm5hbWUiOiAi6ZWc6Iqx5rC05pyIIiwicGFzc3dvcmQiOiAiMjA0MjE5ODE2Ny4uLiIsInVhIjogIllhbWJ5LzEuMC4yKEFuZHJvaWQpIn0=",
         "filterable": 1,
-        "ext": {
-            "server": "http://mygcns.mobaiemby.site:7069",
-            "username": "镜花水月",
-            "password": "2042198167...",
-            "ua": "Yamby/1.0.2(Android)",
-            "client": "Yamby",
-            "deviceName": "Xiaomi-Poco-X3",
-        },
-        "changeable": 1,
-        "jar": "https://www.252035.xyz/z/custom_spider.jar"
+        "quickSearch": 1,
+        "name": "Emby墨云阁",
+        "changeable": 0,
+        "jar": "https://www.252035.xyz/z/custom_spider.jar",
+        "api": "csp_Emby",
+        "type": 3,
+        "key": "墨云阁",
+        "searchable": 1
     }
+    
+    
+    
     SiteProcessor.insert_single_site(original_data, emby_feiniu_site, insert_pos=1)
 
     # 保存最终结果并发送通知

@@ -347,7 +347,7 @@ def main():
         "commonConfig": "./json/peizhi.json"
       },
       "changeable": 1,
-      "jar": "https://www.252035.xyz/z/custom_spider.jar"
+      "jar": "https://cnb.cool/fish2018/zx/-/git/raw/master/custom_spider.jar"
     }
             
     
@@ -370,3 +370,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

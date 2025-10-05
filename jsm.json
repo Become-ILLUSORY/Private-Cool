@@ -12,27 +12,19 @@
             "ext": "https://bp.banye.tech:7777/pg/lib/tokenm?token=qunyouyouqun$$$https://www.252035.xyz/p/lib/douban.json"
         },
         {
-            "key": "Emby",
-            "name": "Emby",
+            "key": "Emby_墨云阁",
+            "name": "墨云阁Emby",
             "type": 3,
             "api": "csp_Emby",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": {
-                "server": "http://mygcns.mobaiemby.site:7069",
-                "username": "镜花水月",
-                "password": "2042198167...",
-                "ua": "Yamby/1.0.2(Android)",
-                "client": "Yamby",
-                "deviceName": "",
-                "commonConfig": "./json/peizhi.json"
-            },
+            "ext": "IHsKICAgICAgICAic2VydmVyIjogImh0dHA6Ly9teWdjbnMubW9iYWllbWJ5LnNpdGU6NzA2OSIsCiAgICAgICAgInVzZXJuYW1lIjoi6ZWc6Iqx5rC05pyIIiwKICAgICAgICAicGFzc3dvcmQiOiIyMDQyMTk4MTY3Li4uIiwKICAgICAgICAidWEiOiJZYW1ieS8xLjAuMihBbmRyb2lkKSIsCiAgICAgICAgImNsaWVudCI6ICJZYW1ieSIsCiAgICAgICAgImRldmljZU5hbWUiOiAiWGlhb21pLVBvY28tWDMiLAogICAgICAgICJjb21tb25Db25maWciOiAiLi9qc29uL3BlaXpoaS5qc29uIgogICAgICB9",
             "changeable": 1,
             "jar": "https://www.252035.xyz/z/custom_spider.jar"
         },
         {
-            "ext": "eyJ1aWQiOiJiNThhNDczNzNhMGM0NmE2ODI5MmY3MTI5OGFlZGI2OCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+            "ext": "eyJ1aWQiOiI3MWE5ZDkwYzI0OWY0ZDkxYWZlZTZlMjAyOGVlYmU3MiIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
             "filterable": 1,
             "quickSearch": 1,
             "name": "AList",
@@ -44,7 +36,7 @@
             "searchable": 1
         },
         {
-            "ext": "eyJ1aWQiOiJiNThhNDczNzNhMGM0NmE2ODI5MmY3MTI5OGFlZGI2OCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+            "ext": "eyJ1aWQiOiI3MWE5ZDkwYzI0OWY0ZDkxYWZlZTZlMjAyOGVlYmU3MiIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
             "filterable": 1,
             "quickSearch": 0,
             "name": "电报豆瓣",
@@ -56,7 +48,7 @@
             "searchable": 0
         },
         {
-            "ext": "eyJ1aWQiOiJiNThhNDczNzNhMGM0NmE2ODI5MmY3MTI5OGFlZGI2OCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+            "ext": "eyJ1aWQiOiI3MWE5ZDkwYzI0OWY0ZDkxYWZlZTZlMjAyOGVlYmU3MiIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
             "filterable": 1,
             "quickSearch": 1,
             "name": "电报搜索",
@@ -68,7 +60,7 @@
             "searchable": 1
         },
         {
-            "ext": "eyJ1aWQiOiJiNThhNDczNzNhMGM0NmE2ODI5MmY3MTI5OGFlZGI2OCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+            "ext": "eyJ1aWQiOiI3MWE5ZDkwYzI0OWY0ZDkxYWZlZTZlMjAyOGVlYmU3MiIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
             "filterable": 1,
             "quickSearch": 1,
             "name": "电报网页",

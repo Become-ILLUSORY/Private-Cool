@@ -281,7 +281,7 @@ def main():
         "new_spider_value": "https://www.252035.xyz/p/pg.jar",
         "replacements": {
             "./lib/tokenm.json": "https://bp.banye.tech:7777/pg/lib/tokenm?token=qunyouyouqun",
-            "./lib/": "https://www.252035.xyz/p/lib/"
+            "./lib/": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/"
         },
         "json_urls": [
             "https://bp.banye.tech:7777/sub/qunyouyouqun/pg"
@@ -362,5 +362,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 

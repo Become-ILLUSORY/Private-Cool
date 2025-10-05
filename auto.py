@@ -337,15 +337,7 @@ def main():
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": {
-        "server": "http://mygcns.mobaiemby.site:7069",
-        "username":"镜花水月",
-        "password":"2042198167...",
-        "ua":"Yamby/1.0.2(Android)",
-        "client": "Yamby",
-        "deviceName": "Xiaomi-Poco-X3",
-        "commonConfig": "./json/peizhi.json"
-      },
+      "ext": "IHsKICAgICAgICAic2VydmVyIjogImh0dHA6Ly9teWdjbnMubW9iYWllbWJ5LnNpdGU6NzA2OSIsCiAgICAgICAgInVzZXJuYW1lIjoi6ZWc6Iqx5rC05pyIIiwKICAgICAgICAicGFzc3dvcmQiOiIyMDQyMTk4MTY3Li4uIiwKICAgICAgICAidWEiOiJZYW1ieS8xLjAuMihBbmRyb2lkKSIsCiAgICAgICAgImNsaWVudCI6ICJZYW1ieSIsCiAgICAgICAgImRldmljZU5hbWUiOiAiWGlhb21pLVBvY28tWDMiLAogICAgICAgICJjb21tb25Db25maWciOiAiLi9qc29uL3BlaXpoaS5qc29uIgogICAgICB9",
       "changeable": 1,
       "jar": "https://cnb.cool/fish2018/zx/-/git/raw/master/custom_spider.jar"
     }
@@ -370,4 +362,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 

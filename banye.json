@@ -1,6 +1,6 @@
 [
     {
-        "ext": "eyJ1aWQiOiIxYmVjMDkyZjIzNWI0MGVhYTFhMmEwYzdlMmQyZTBlOCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+        "ext": "eyJ1aWQiOiI0MTEzOGEzNjI4NzM0NDllYjY3ZTAxOWQwMWE2M2IxNCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
         "filterable": 1,
         "quickSearch": 1,
         "name": "AList",
@@ -12,7 +12,7 @@
         "searchable": 1
     },
     {
-        "ext": "eyJ1aWQiOiIxYmVjMDkyZjIzNWI0MGVhYTFhMmEwYzdlMmQyZTBlOCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+        "ext": "eyJ1aWQiOiI0MTEzOGEzNjI4NzM0NDllYjY3ZTAxOWQwMWE2M2IxNCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
         "filterable": 1,
         "quickSearch": 0,
         "name": "电报豆瓣",
@@ -24,7 +24,7 @@
         "searchable": 0
     },
     {
-        "ext": "eyJ1aWQiOiIxYmVjMDkyZjIzNWI0MGVhYTFhMmEwYzdlMmQyZTBlOCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+        "ext": "eyJ1aWQiOiI0MTEzOGEzNjI4NzM0NDllYjY3ZTAxOWQwMWE2M2IxNCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
         "filterable": 1,
         "quickSearch": 1,
         "name": "电报搜索",
@@ -36,7 +36,7 @@
         "searchable": 1
     },
     {
-        "ext": "eyJ1aWQiOiIxYmVjMDkyZjIzNWI0MGVhYTFhMmEwYzdlMmQyZTBlOCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+        "ext": "eyJ1aWQiOiI0MTEzOGEzNjI4NzM0NDllYjY3ZTAxOWQwMWE2M2IxNCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
         "filterable": 1,
         "quickSearch": 1,
         "name": "电报网页",
@@ -176,24 +176,5 @@
             "ratio": 1.77
         },
         "jar": "https://bp.banye.tech:7777/pg/pg.jar;md5;4fe9b61be0b0c9e91a6c70dfb7d33647"
-    },
-    {
-        "key": "Wexconfig",
-        "name": "🐮通用类型┃配置中心🐮",
-        "type": 3,
-        "api": "csp_WexconfigGuard",
-        "searchable": 0,
-        "changeable": 0,
-        "indexs": 0,
-        "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/35842A0_773_wex_20251004220600232newMediaImage.png;md5;47ddcda7e66c4408c7d7470b4e2be335"
-    },
-    {
-        "key": "Wexemby",
-        "name": "🀄️emby┃4K🀄️",
-        "type": 3,
-        "api": "csp_WexembyGuard",
-        "searchable": 1,
-        "changeable": 1,
-        "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/35842A0_773_wex_20251004220600232newMediaImage.png;md5;47ddcda7e66c4408c7d7470b4e2be335"
     }
 ]

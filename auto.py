@@ -338,7 +338,7 @@ def main():
         "quickSearch": 1,
         "filterable": 1,
         "ext": {
-            "server": "http://127.0.0.1:9966/api/proxy/http://mygcns.mobaiemby.site:7069",
+            "server": "http://mygcns.mobaiemby.site:7069",
             "username": "镜花水月",
             "password": "2042198167...",
             "ua": "Yamby"
@@ -364,3 +364,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

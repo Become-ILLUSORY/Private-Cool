@@ -19,12 +19,20 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "IHsKICAgICAgICAic2VydmVyIjogImh0dHA6Ly9teWdjbnMubW9iYWllbWJ5LnNpdGU6NzA2OSIsCiAgICAgICAgInVzZXJuYW1lIjoi6ZWc6Iqx5rC05pyIIiwKICAgICAgICAicGFzc3dvcmQiOiIyMDQyMTk4MTY3Li4uIiwKICAgICAgICAidWEiOiJZYW1ieS8xLjAuMihBbmRyb2lkKSIsCiAgICAgICAgImNsaWVudCI6ICJZYW1ieSIsCiAgICAgICAgImRldmljZU5hbWUiOiAiWGlhb21pLVBvY28tWDMiLAogICAgICAgICJjb21tb25Db25maWciOiAiLi9qc29uL3BlaXpoaS5qc29uIgogICAgICB9",
+            "ext": {
+                "server": "http://mygcns.mobaiemby.site:7069",
+                "username": "镜花水月",
+                "password": "2042198167...",
+                "ua": "Yamby/1.0.2(Android)",
+                "client": "Yamby",
+                "deviceName": "Xiaomi-Poco-X3",
+                "commonConfig": "./json/peizhi.json"
+            },
             "changeable": 1,
             "jar": "https://cnb.cool/fish2018/zx/-/git/raw/master/custom_spider.jar"
         },
         {
-            "ext": "eyJ1aWQiOiI5MGViZGE3MDFiNWQ0YjY3YTI3YmVlNzk3YTM1YTY0YSIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+            "ext": "eyJ1aWQiOiJjMjFiMGFjMmRhZmU0YTA3OTQxYWMwMTIzYmNjOWFjMCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
             "filterable": 1,
             "quickSearch": 1,
             "name": "AList",
@@ -36,7 +44,7 @@
             "searchable": 1
         },
         {
-            "ext": "eyJ1aWQiOiI5MGViZGE3MDFiNWQ0YjY3YTI3YmVlNzk3YTM1YTY0YSIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+            "ext": "eyJ1aWQiOiJjMjFiMGFjMmRhZmU0YTA3OTQxYWMwMTIzYmNjOWFjMCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
             "filterable": 1,
             "quickSearch": 0,
             "name": "电报豆瓣",
@@ -48,7 +56,7 @@
             "searchable": 0
         },
         {
-            "ext": "eyJ1aWQiOiI5MGViZGE3MDFiNWQ0YjY3YTI3YmVlNzk3YTM1YTY0YSIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+            "ext": "eyJ1aWQiOiJjMjFiMGFjMmRhZmU0YTA3OTQxYWMwMTIzYmNjOWFjMCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
             "filterable": 1,
             "quickSearch": 1,
             "name": "电报搜索",
@@ -60,7 +68,7 @@
             "searchable": 1
         },
         {
-            "ext": "eyJ1aWQiOiI5MGViZGE3MDFiNWQ0YjY3YTI3YmVlNzk3YTM1YTY0YSIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+            "ext": "eyJ1aWQiOiJjMjFiMGFjMmRhZmU0YTA3OTQxYWMwMTIzYmNjOWFjMCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
             "filterable": 1,
             "quickSearch": 1,
             "name": "电报网页",

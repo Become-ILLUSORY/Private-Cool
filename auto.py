@@ -331,7 +331,7 @@ def main():
     SiteProcessor.insert_sites(original_data, new_sites)
     emby_sites = [
     {
-      "key": "Emby_墨云阁",
+      "key": "Emby",
       "name": "墨云阁Emby",
       "type": 3,
       "api": "csp_Emby",
@@ -363,3 +363,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

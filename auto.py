@@ -278,7 +278,7 @@ def main():
         "showdoc_push_url": os.getenv("SHOWDOC_PUSH_URL"),
         "pg_url": "https://www.252035.xyz/p/jsm.json",
         "filename": "jsm.json",
-        "new_spider_value": "https://www.252035.xyz/p/pg.jar",
+        "new_spider_value": "https://cnb.cool/fish2018/pg/-/git/raw/master/pg.jar",
         "replacements": {
             "./lib/tokenm.json": "https://bp.banye.tech:7777/pg/lib/tokenm?token=qunyouyouqun",
             "./lib/": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/"
@@ -370,6 +370,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 

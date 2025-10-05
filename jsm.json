@@ -20,7 +20,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "server": "http://127.0.0.1:9966/api/proxy/http://mygcns.mobaiemby.site:7069",
+                "server": "http://mygcns.mobaiemby.site:7069",
                 "username": "镜花水月",
                 "password": "2042198167...",
                 "ua": "Yamby"
@@ -29,7 +29,7 @@
             "jar": "https://www.252035.xyz/z/custom_spider.jar;md5;43989964965deab2a4b6b48251043412"
         },
         {
-            "ext": "eyJ1aWQiOiI0MTEzOGEzNjI4NzM0NDllYjY3ZTAxOWQwMWE2M2IxNCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+            "ext": "eyJ1aWQiOiI4ZTliNWYyODgxMDc0NDBmODQzNGNkYjQxMWQ5Yjg3YSIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
             "filterable": 1,
             "quickSearch": 1,
             "name": "AList",
@@ -41,7 +41,7 @@
             "searchable": 1
         },
         {
-            "ext": "eyJ1aWQiOiI0MTEzOGEzNjI4NzM0NDllYjY3ZTAxOWQwMWE2M2IxNCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+            "ext": "eyJ1aWQiOiI4ZTliNWYyODgxMDc0NDBmODQzNGNkYjQxMWQ5Yjg3YSIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
             "filterable": 1,
             "quickSearch": 0,
             "name": "电报豆瓣",
@@ -53,7 +53,7 @@
             "searchable": 0
         },
         {
-            "ext": "eyJ1aWQiOiI0MTEzOGEzNjI4NzM0NDllYjY3ZTAxOWQwMWE2M2IxNCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+            "ext": "eyJ1aWQiOiI4ZTliNWYyODgxMDc0NDBmODQzNGNkYjQxMWQ5Yjg3YSIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
             "filterable": 1,
             "quickSearch": 1,
             "name": "电报搜索",
@@ -65,7 +65,7 @@
             "searchable": 1
         },
         {
-            "ext": "eyJ1aWQiOiI0MTEzOGEzNjI4NzM0NDllYjY3ZTAxOWQwMWE2M2IxNCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+            "ext": "eyJ1aWQiOiI4ZTliNWYyODgxMDc0NDBmODQzNGNkYjQxMWQ5Yjg3YSIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
             "filterable": 1,
             "quickSearch": 1,
             "name": "电报网页",

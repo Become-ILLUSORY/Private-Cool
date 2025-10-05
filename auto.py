@@ -329,8 +329,7 @@ def main():
 
     # 插入站点（批量插入+单独插入自定义站点）
     SiteProcessor.insert_sites(original_data, new_sites)
-    emby_sites = [
-    {
+    emby_feiniu_site = {
       "key": "Emby",
       "name": "Emby",
       "type": 3,
@@ -347,12 +346,13 @@ def main():
         "deviceName": "Xiaomi-Poco-X3",
         "commonConfig": "./json/peizhi.json"
       },
-      "changeable": 1
-    }          
-    ]
+      "changeable": 1,
+      "jar": "https://www.252035.xyz/z/custom_spider.jar"
+    }
+            
     
-    for site in emby_sites:
-        SiteProcessor.insert_single_site(original_data, site, insert_pos=1)
+    
+    SiteProcessor.insert_single_site(original_data, emby_feiniu_site, insert_pos=1)
 
     # 保存最终结果并发送通知
     save_success = FileUtils.write_json(original_data, config["filename"])
@@ -370,5 +370,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-

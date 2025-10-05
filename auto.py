@@ -339,8 +339,6 @@ def main():
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-//        "server": "https://emby.feiniu.lol:443",
-        //emby需要梯子的，配置代理头
         "server": "http://mygcns.mobaiemby.site:7069",
         "username":"镜花水月",
         "password":"2042198167...",
@@ -372,4 +370,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 

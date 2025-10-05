@@ -329,30 +329,23 @@ def main():
 
     # 插入站点（批量插入+单独插入自定义站点）
     SiteProcessor.insert_sites(original_data, new_sites)
-    emby_feiniu_site = {
-      "key": "Emby",
-      "name": "Emby",
+    emby_sites = [
+    {
+      "key": "Emby_墨云阁",
+      "name": "墨云阁Emby",
       "type": 3,
       "api": "csp_Emby",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": {
-        "server": "http://mygcns.mobaiemby.site:7069",
-        "username":"镜花水月",
-        "password":"2042198167...",
-        "ua":"Yamby/1.0.2(Android)",
-        "client": "Yamby",
-        "deviceName": "",
-        "commonConfig": "./json/peizhi.json"
-      },
+      "ext":"IHsKICAgICAgICAic2VydmVyIjogImh0dHA6Ly9teWdjbnMubW9iYWllbWJ5LnNpdGU6NzA2OSIsCiAgICAgICAgInVzZXJuYW1lIjoi6ZWc6Iqx5rC05pyIIiwKICAgICAgICAicGFzc3dvcmQiOiIyMDQyMTk4MTY3Li4uIiwKICAgICAgICAidWEiOiJZYW1ieS8xLjAuMihBbmRyb2lkKSIsCiAgICAgICAgImNsaWVudCI6ICJZYW1ieSIsCiAgICAgICAgImRldmljZU5hbWUiOiAiWGlhb21pLVBvY28tWDMiLAogICAgICAgICJjb21tb25Db25maWciOiAiLi9qc29uL3BlaXpoaS5qc29uIgogICAgICB9",
       "changeable": 1,
       "jar": "https://www.252035.xyz/z/custom_spider.jar"
-    }
-            
+    }          
+    ]
     
-    
-    SiteProcessor.insert_single_site(original_data, emby_feiniu_site, insert_pos=1)
+    for site in emby_sites:
+        SiteProcessor.insert_single_site(original_data, site, insert_pos=1)
 
     # 保存最终结果并发送通知
     save_success = FileUtils.write_json(original_data, config["filename"])

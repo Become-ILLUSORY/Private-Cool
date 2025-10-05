@@ -29,10 +29,10 @@
                 "commonConfig": "./json/peizhi.json"
             },
             "changeable": 1,
-            "jar": "https://www.252035.xyz/z/custom_spider.jar"
+            "jar": "https://cnb.cool/fish2018/zx/-/git/raw/master/custom_spider.jar"
         },
         {
-            "ext": "eyJ1aWQiOiI0M2Y4ZjY5MDAzYzg0OTlmOTljZjEyMmFjMzEyNGRjNiIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+            "ext": "eyJ1aWQiOiIxZjg1NmU5YmVmNzY0MjJmOGJlNDFiNGQyMGFhY2E0MCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
             "filterable": 1,
             "quickSearch": 1,
             "name": "AList",
@@ -44,7 +44,7 @@
             "searchable": 1
         },
         {
-            "ext": "eyJ1aWQiOiI0M2Y4ZjY5MDAzYzg0OTlmOTljZjEyMmFjMzEyNGRjNiIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+            "ext": "eyJ1aWQiOiIxZjg1NmU5YmVmNzY0MjJmOGJlNDFiNGQyMGFhY2E0MCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
             "filterable": 1,
             "quickSearch": 0,
             "name": "电报豆瓣",
@@ -56,7 +56,7 @@
             "searchable": 0
         },
         {
-            "ext": "eyJ1aWQiOiI0M2Y4ZjY5MDAzYzg0OTlmOTljZjEyMmFjMzEyNGRjNiIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+            "ext": "eyJ1aWQiOiIxZjg1NmU5YmVmNzY0MjJmOGJlNDFiNGQyMGFhY2E0MCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
             "filterable": 1,
             "quickSearch": 1,
             "name": "电报搜索",
@@ -68,7 +68,7 @@
             "searchable": 1
         },
         {
-            "ext": "eyJ1aWQiOiI0M2Y4ZjY5MDAzYzg0OTlmOTljZjEyMmFjMzEyNGRjNiIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+            "ext": "eyJ1aWQiOiIxZjg1NmU5YmVmNzY0MjJmOGJlNDFiNGQyMGFhY2E0MCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
             "filterable": 1,
             "quickSearch": 1,
             "name": "电报网页",

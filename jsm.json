@@ -32,7 +32,7 @@
             "jar": "https://cnb.cool/fish2018/zx/-/git/raw/master/custom_spider.jar"
         },
         {
-            "ext": "eyJ1aWQiOiJlOGFlN2I1Mjg1ODg0ODc4YjYzMjAzZjYxZDBmYzU5YyIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+            "ext": "eyJ1aWQiOiIwNDU3MWZhMGZkNmI0M2I4ODVlYjBiNDU2ODc2NjNkZCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
             "filterable": 1,
             "quickSearch": 1,
             "name": "AList",
@@ -44,7 +44,7 @@
             "searchable": 1
         },
         {
-            "ext": "eyJ1aWQiOiJlOGFlN2I1Mjg1ODg0ODc4YjYzMjAzZjYxZDBmYzU5YyIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+            "ext": "eyJ1aWQiOiIwNDU3MWZhMGZkNmI0M2I4ODVlYjBiNDU2ODc2NjNkZCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
             "filterable": 1,
             "quickSearch": 0,
             "name": "电报豆瓣",
@@ -56,7 +56,7 @@
             "searchable": 0
         },
         {
-            "ext": "eyJ1aWQiOiJlOGFlN2I1Mjg1ODg0ODc4YjYzMjAzZjYxZDBmYzU5YyIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+            "ext": "eyJ1aWQiOiIwNDU3MWZhMGZkNmI0M2I4ODVlYjBiNDU2ODc2NjNkZCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
             "filterable": 1,
             "quickSearch": 1,
             "name": "电报搜索",
@@ -68,7 +68,7 @@
             "searchable": 1
         },
         {
-            "ext": "eyJ1aWQiOiJlOGFlN2I1Mjg1ODg0ODc4YjYzMjAzZjYxZDBmYzU5YyIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+            "ext": "eyJ1aWQiOiIwNDU3MWZhMGZkNmI0M2I4ODVlYjBiNDU2ODc2NjNkZCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
             "filterable": 1,
             "quickSearch": 1,
             "name": "电报网页",
@@ -99,7 +99,7 @@
                 "type": "rect",
                 "ratio": 1.77
             },
-            "jar": "https://bp.banye.tech:7777/pg/pg.jar;md5;4fe9b61be0b0c9e91a6c70dfb7d33647"
+            "jar": "https://bp.banye.tech:7777/pg/pg.jar;md5;2a88fc2ac650a6908c65e47515b58049"
         },
         {
             "key": "同步",
@@ -163,7 +163,7 @@
                 "type": "rect",
                 "ratio": 0.7
             },
-            "jar": "https://bp.banye.tech:7777/pg/pg.jar;md5;4fe9b61be0b0c9e91a6c70dfb7d33647"
+            "jar": "https://bp.banye.tech:7777/pg/pg.jar;md5;2a88fc2ac650a6908c65e47515b58049"
         },
         {
             "key": "TGYunPanLocal",
@@ -185,7 +185,7 @@
                 "type": "rect",
                 "ratio": 1.77
             },
-            "jar": "https://bp.banye.tech:7777/pg/pg.jar;md5;4fe9b61be0b0c9e91a6c70dfb7d33647"
+            "jar": "https://bp.banye.tech:7777/pg/pg.jar;md5;2a88fc2ac650a6908c65e47515b58049"
         },
         {
             "key": "TGYunPan",
@@ -207,12 +207,12 @@
                 "type": "rect",
                 "ratio": 1.77
             },
-            "jar": "https://bp.banye.tech:7777/pg/pg.jar;md5;4fe9b61be0b0c9e91a6c70dfb7d33647"
+            "jar": "https://bp.banye.tech:7777/pg/pg.jar;md5;2a88fc2ac650a6908c65e47515b58049"
         },
         {
             "key": "https://github.com/fish2018/PG",
-            "name": "202510022306",
-            "zip": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20251002-2306.zip",
+            "name": "202510091940",
+            "zip": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20251009-1940.zip",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,

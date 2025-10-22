@@ -1,6 +1,6 @@
 [
     {
-        "ext": "eyJ1aWQiOiIwNDU3MWZhMGZkNmI0M2I4ODVlYjBiNDU2ODc2NjNkZCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+        "ext": "eyJ1aWQiOiJiZTg0MDk5YzNmODc0OGQ0ODhjZmYwODY1MmU5OGE4NiIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
         "filterable": 1,
         "quickSearch": 1,
         "name": "AList",
@@ -12,7 +12,7 @@
         "searchable": 1
     },
     {
-        "ext": "eyJ1aWQiOiIwNDU3MWZhMGZkNmI0M2I4ODVlYjBiNDU2ODc2NjNkZCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+        "ext": "eyJ1aWQiOiJiZTg0MDk5YzNmODc0OGQ0ODhjZmYwODY1MmU5OGE4NiIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
         "filterable": 1,
         "quickSearch": 0,
         "name": "电报豆瓣",
@@ -24,7 +24,7 @@
         "searchable": 0
     },
     {
-        "ext": "eyJ1aWQiOiIwNDU3MWZhMGZkNmI0M2I4ODVlYjBiNDU2ODc2NjNkZCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+        "ext": "eyJ1aWQiOiJiZTg0MDk5YzNmODc0OGQ0ODhjZmYwODY1MmU5OGE4NiIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
         "filterable": 1,
         "quickSearch": 1,
         "name": "电报搜索",
@@ -36,7 +36,7 @@
         "searchable": 1
     },
     {
-        "ext": "eyJ1aWQiOiIwNDU3MWZhMGZkNmI0M2I4ODVlYjBiNDU2ODc2NjNkZCIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
+        "ext": "eyJ1aWQiOiJiZTg0MDk5YzNmODc0OGQ0ODhjZmYwODY1MmU5OGE4NiIsImFwaSI6Imh0dHBzOi8vYnAuYmFueWUudGVjaDo3Nzc3IiwidG9rZW4iOiJxdW55b3V5b3VxdW4ifQ==",
         "filterable": 1,
         "quickSearch": 1,
         "name": "电报网页",
@@ -67,7 +67,7 @@
             "type": "rect",
             "ratio": 1.77
         },
-        "jar": "https://bp.banye.tech:7777/pg/pg.jar;md5;2a88fc2ac650a6908c65e47515b58049"
+        "jar": "https://bp.banye.tech:7777/pg/pg.jar;md5;30b3b8d941f1de8ba73661b3ee6c04f0"
     },
     {
         "key": "同步",
@@ -131,7 +131,7 @@
             "type": "rect",
             "ratio": 0.7
         },
-        "jar": "https://bp.banye.tech:7777/pg/pg.jar;md5;2a88fc2ac650a6908c65e47515b58049"
+        "jar": "https://bp.banye.tech:7777/pg/pg.jar;md5;30b3b8d941f1de8ba73661b3ee6c04f0"
     },
     {
         "key": "TGYunPanLocal",
@@ -153,7 +153,7 @@
             "type": "rect",
             "ratio": 1.77
         },
-        "jar": "https://bp.banye.tech:7777/pg/pg.jar;md5;2a88fc2ac650a6908c65e47515b58049"
+        "jar": "https://bp.banye.tech:7777/pg/pg.jar;md5;30b3b8d941f1de8ba73661b3ee6c04f0"
     },
     {
         "key": "TGYunPan",
@@ -175,6 +175,6 @@
             "type": "rect",
             "ratio": 1.77
         },
-        "jar": "https://bp.banye.tech:7777/pg/pg.jar;md5;2a88fc2ac650a6908c65e47515b58049"
+        "jar": "https://bp.banye.tech:7777/pg/pg.jar;md5;30b3b8d941f1de8ba73661b3ee6c04f0"
     }
 ]

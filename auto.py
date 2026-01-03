@@ -338,7 +338,7 @@ def main():
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "server": "http://mygcns.mobaiemby.site:7069",
+        "server": "https://m.mobaiemby.site:443",
         "username":"镜花水月",
         "password":"2042198167...",
         "ua":"Yamby/1.0.2(Android)",
@@ -370,6 +370,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 

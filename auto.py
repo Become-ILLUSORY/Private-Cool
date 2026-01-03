@@ -280,11 +280,11 @@ def main():
         "filename": "jsm.json",
         "new_spider_value": "https://cnb.cool/fish2018/pg/-/git/raw/master/pg.jar",
         "replacements": {
-            "./lib/tokenm.json": "https://bp.banye.tech:7777/pg/lib/tokenm?token=qunyouyouqun",
+            # "./lib/tokenm.json": "https://bp.banye.tech:7777/pg/lib/tokenm?token=qunyouyouqun",
             "./lib/": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/"
         },
         "json_urls": [
-            "https://bp.banye.tech:7777/sub/qunyouyouqun/pg"
+            # "https://bp.banye.tech:7777/sub/qunyouyouqun/pg"
         ],
         "site_names": [
             "AList",
@@ -370,6 +370,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 

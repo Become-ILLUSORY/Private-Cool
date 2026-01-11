@@ -1,5 +1,5 @@
 {
-    "spider": "http://oss4liview.moji.com/thd_file/2026/01/05/e8223f500ba2abc0fa2701b61183345a.jpg;md5;5d393d3803182a41ddb6a67c9f3cdf6d",
+    "spider": "http://oss4liview.moji.com/thd_file/2026/01/10/fefca850c7303a5084b0ce6203f5aace.jpg;md5;cf004a6cc004ce54d75382f023ab2b23",
     "wallpaper": "http://127.0.0.1:9978/proxy?do=wall",
     "logo": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/ACB34B_773_photo_2022-09-14_00-00-57_20251204145106336newMediaImage.jpg",
     "sites": [
@@ -33,9 +33,9 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "server": "https://m.mobaiemby.site:443",
-                "username": "镜花水月",
-                "password": "2042198167...",
+                "server": "https://www.example.com",
+                "username": "admin",
+                "password": "password",
                 "ua": "Yamby/1.0.2(Android)",
                 "client": "Yamby",
                 "deviceName": "Xiaomi-Poco-X3",

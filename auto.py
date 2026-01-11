@@ -108,9 +108,9 @@ if __name__ == "__main__":
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "server": "https://m.mobaiemby.site:443",
-        "username":"镜花水月",
-        "password":"2042198167...",
+        "server": "https://www.example.com",
+        "username":"admin",
+        "password":"password",
         "ua":"Yamby/1.0.2(Android)",
         "client": "Yamby",
         "deviceName": "Xiaomi-Poco-X3",
@@ -127,3 +127,4 @@ if __name__ == "__main__":
     if success:
         _save_json(data, output_json)
         print("🎉 所有操作完成！")
+

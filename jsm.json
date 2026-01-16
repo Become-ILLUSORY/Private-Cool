@@ -1,5 +1,5 @@
 {
-    "spider": "http://oss4liview.moji.com/thd_file/2026/01/10/fefca850c7303a5084b0ce6203f5aace.jpg;md5;cf004a6cc004ce54d75382f023ab2b23",
+    "spider": "http://oss4liview.moji.com/thd_file/2026/01/14/f358450036e27e7d05e72fd116753108.jpg;md5;eff2819b1a4dd3c22c17cad6ad645f57",
     "wallpaper": "http://127.0.0.1:9978/proxy?do=wall",
     "logo": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/ACB34B_773_photo_2022-09-14_00-00-57_20251204145106336newMediaImage.jpg",
     "sites": [
@@ -238,19 +238,6 @@
             "timeout": 25
         },
         {
-            "key": "极狐",
-            "name": "🦊极狐┃4K弹幕",
-            "type": 3,
-            "api": "csp_Fox4kGuard",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "timeout": 25
-        },
-        {
             "key": "盘他",
             "name": "🎸盘他┃4K",
             "type": 3,
@@ -450,47 +437,16 @@
             "timeout": 10
         },
         {
-            "key": "吉米弹幕版",
-            "name": "🍙吉米┃弹幕",
+            "key": "奇奇弹幕版",
+            "name": "🐵奇奇┃弹幕",
             "type": 3,
-            "api": "csp_AppFoxGuard",
+            "api": "csp_QiQiGuard",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
             "filterable": 1,
             "ext": {
-                "danmu": true,
-                "siteUrl": "http://45.207.215.137:8006"
-            },
-            "timeout": 10
-        },
-        {
-            "key": "恋鱼弹幕版",
-            "name": "🐟恋鱼┃弹幕",
-            "type": 3,
-            "api": "csp_AppFoxGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "filterable": 1,
-            "ext": {
-                "danmu": true,
-                "siteFrom": "https://173220859-1333208043.cos.ap-shanghai.myqcloud.com/1.json"
-            },
-            "timeout": 10
-        },
-        {
-            "key": "麒麟弹幕版",
-            "name": "🐓麒麟┃弹幕",
-            "type": 3,
-            "api": "csp_AppFoxGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "filterable": 1,
-            "ext": {
-                "danmu": true,
-                "siteUrl": "https://www.70yyw.cc"
+                "danmu": true
             },
             "timeout": 10
         },

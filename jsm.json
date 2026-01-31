@@ -1,5 +1,5 @@
 {
-    "spider": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg;md5;f2973db01b3ac8dd9d9cd931e384935e",
+    "spider": "http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60",
     "wallpaper": "http://127.0.0.1:9978/proxy?do=wall",
     "logo": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/ACB34B_773_photo_2022-09-14_00-00-57_20251204145106336newMediaImage.jpg",
     "sites": [
@@ -422,21 +422,6 @@
             "timeout": 10
         },
         {
-            "key": "鲸鱼弹幕版",
-            "name": "🐳鲸鱼┃弹幕",
-            "type": 3,
-            "api": "csp_AweSomeGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "filterable": 1,
-            "ext": {
-                "sp": "JingYu",
-                "danmu": true
-            },
-            "timeout": 10
-        },
-        {
             "key": "小猪弹幕版",
             "name": "🐖小猪┃弹幕",
             "type": 3,
@@ -467,8 +452,8 @@
             "timeout": 10
         },
         {
-            "key": "仓鼠弹幕版",
-            "name": "🐹仓鼠┃弹幕",
+            "key": "芬奇弹幕版",
+            "name": "🐹芬奇┃弹幕",
             "type": 3,
             "api": "csp_AweSomeGuard",
             "searchable": 1,
@@ -476,7 +461,7 @@
             "changeable": 0,
             "filterable": 1,
             "ext": {
-                "sp": "CangShu",
+                "sp": "FenQi",
                 "danmu": true
             },
             "timeout": 10
@@ -497,6 +482,36 @@
             "timeout": 10
         },
         {
+            "key": "小白弹幕版",
+            "name": "🍼小白┃弹幕",
+            "type": 3,
+            "api": "csp_AweSomeGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "ext": {
+                "sp": "XiaoBai",
+                "danmu": true
+            },
+            "timeout": 10
+        },
+        {
+            "key": "汤圆弹幕版",
+            "name": "🍚汤圆┃弹幕",
+            "type": 3,
+            "api": "csp_AweSomeGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "ext": {
+                "sp": "TangYuan",
+                "danmu": true
+            },
+            "timeout": 10
+        },
+        {
             "key": "木瓜弹幕版",
             "name": "🥑木瓜┃弹幕",
             "type": 3,
@@ -509,6 +524,22 @@
                 "sp": "AppFox",
                 "danmu": true,
                 "siteUrl": "http://www.yezitv.top"
+            },
+            "timeout": 10
+        },
+        {
+            "key": "紫金弹幕版",
+            "name": "🍇紫金┃弹幕",
+            "type": 3,
+            "api": "csp_AweSomeGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "ext": {
+                "sp": "AppFox",
+                "danmu": true,
+                "siteUrl": "https://www.zjcvod.com"
             },
             "timeout": 10
         },
@@ -781,20 +812,6 @@
             "timeout": 10
         },
         {
-            "key": "yhdm",
-            "name": "🌸樱花┃动漫",
-            "type": 3,
-            "api": "csp_AweSomeGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "filterable": 1,
-            "ext": {
-                "sp": "YHDM"
-            },
-            "timeout": 15
-        },
-        {
             "key": "动漫巴士",
             "name": "🚌巴士┃动漫",
             "type": 3,
@@ -900,6 +917,32 @@
             },
             "ext": {
                 "sp": "Kanqiu"
+            },
+            "timeout": 10
+        },
+        {
+            "key": "爱听音乐",
+            "name": "🎧爱听┃音乐",
+            "type": 3,
+            "api": "csp_AweSomeGuard",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": {
+                "sp": "AiMusic"
+            },
+            "timeout": 10
+        },
+        {
+            "key": "酷狗音乐",
+            "name": "🐕酷狗┃音乐",
+            "type": 3,
+            "api": "csp_AweSomeGuard",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": {
+                "sp": "KuGou"
             },
             "timeout": 10
         },
@@ -1375,6 +1418,13 @@
             "timeout": 10
         },
         {
+            "name": "MIGU",
+            "type": 0,
+            "url": "http://127.0.0.1:9978/proxy?do=live&url=https://ds65.tv1288.xyz",
+            "playerType": 2,
+            "timeout": 10
+        },
+        {
             "name": "冰茶",
             "type": 0,
             "url": "http://127.0.0.1:9978/proxy?do=live&url=https%3A%2F%2Fbc.188766.xyz%2F%3Fip%3D%26mishitong%3Dtrue%26mima%3Dbingcha1130%26json%3Dtrue",
@@ -1392,9 +1442,12 @@
         {
             "name": "一起看",
             "type": 3,
-            "api": "csp_HuyaGuard",
+            "api": "csp_AweSomeGuard",
             "url": "yqk",
             "playerType": 2,
+            "ext": {
+                "sp": "Huya"
+            },
             "timeout": 10
         },
         {
